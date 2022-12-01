@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Amitabhagat05" target="blank">
+<h1 align="center">Hello, I'm <a href="https://github.com/Amitabhagat05" target="blank">
 Amita</a></h1>
 <h3 align="center">A Passionate Web Developer from Faridabad,India &#127470;&#127475</h3>
 
@@ -14,10 +14,8 @@ Amita</a></h1>
 - 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate with other developers and designers 
 - ⚡ I am also an active listener. 
-- 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/Amitabhagat05/100DAYSFORCODING" target="blank">100DaysOfCodeChallenge</a>
+- 🌱 I’m currently doing 100 Days Of Code Challenge <a href="https://github.com/Amitabhagat05/100DAYSFORCODING" target="blank">100DAYSOFCODING</a>
 
-
-- 💬 Ask me about **Web Development and Java**
 
 - 📫 How to reach me **amitabhagat118@gmail.com** or **https://www.linkedin.com/in/amita-bhagat-03428b243/**
 
@@ -45,4 +43,4 @@ Amita</a></h1>
 
 Credit: [Amita Bhagat](https://github.com/Amitabhagat05)
 
-Last Edited on: 09/10/2022
+Last Edited on: 28/11/2022
