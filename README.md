@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm <a href="https://github.com/Amitabhagat05" target="blank">
-Amita</a></h1>
+Amita Bhagat </a></h1>
 <h3 align="center">A Passionate Web Developer from Faridabad,India &#127470;&#127475</h3>
 
 
